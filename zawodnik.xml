@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<spis_zawodnikow>
+    <zawodnik>
+        <id>1</id>
+        <imie>Bartosz</imie>
+        <nazwisko>Mięsowicz</nazwisko>
+        <miasto>Kraków</miasto>
+        <tel>123123123</tel>
+        <email>b@mie.com</email>
+        <zawody>Bieg Rzeźnika</zawody>
+        <end></end>
+    </zawodnik>
+    <zawodnik>
+        <id>2</id>
+        <imie>Stanisław</imie>
+        <nazwisko>Biegacz</nazwisko>
+        <miasto>Rzeszów</miasto>
+        <tel>456456456</tel>
+        <email>s@bie.com</email>
+        <zawody>Bieg Orlich Gniazd</zawody>
+        <end></end>
+    </zawodnik>
+    <zawodnik>
+        <id>3</id>
+        <imie>Franciszek</imie>
+        <nazwisko>Piłkarski</nazwisko>
+        <miasto>Warszawa</miasto>
+        <tel>789789789</tel>
+        <email>f@pil.com</email>
+        <zawody>Bieg Strażaka</zawody>
+        <end></end>
+    </zawodnik>
+</spis_zawodnikow>
